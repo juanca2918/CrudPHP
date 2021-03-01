@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5be8abf4-7eb6-4caf-86f0-b57b26ca4e34" name="Default Changelist" comment="CRUD DE PHP Y MYSQL - primero de marzo/2021." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Juan Carlos Arias Botero" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="d66d6fa0-968a-4b95-8c05-ab7928c73615" name="Apache" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../php/PEAR" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1pAnf5ZUmrjZg1BtmQ4fKvCJkjq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Crud" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8080">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Apache" start_url="/crud">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5be8abf4-7eb6-4caf-86f0-b57b26ca4e34" name="Default Changelist" comment="" />
+      <created>1614634863264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614634863264</updated>
+      <workItem from="1614634864400" duration="6572000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1132" y="165" key="#PHP" timestamp="1614636141321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1132" y="165" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1614636141321" />
+    <state x="954" y="178" key="#Servers" timestamp="1614635882898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="954" y="178" key="#Servers/0.0.1920.1040@0.0.1920.1040" timestamp="1614635882898" />
+    <state x="828" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614636617931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614636617931" />
+    <state x="502" y="95" key="CommitChangelistDialog2" timestamp="1614642140444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="502" y="95" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1614642140444" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1614641951678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1614641951678" />
+    <state width="1860" height="281" key="GridCell.Tab.0.bottom" timestamp="1614641770138">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614641770138" />
+    <state width="1860" height="281" key="GridCell.Tab.0.center" timestamp="1614641770138">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614641770138" />
+    <state width="1860" height="281" key="GridCell.Tab.0.left" timestamp="1614641770138">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614641770138" />
+    <state width="1860" height="281" key="GridCell.Tab.0.right" timestamp="1614641770138">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614641770138" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/conexion.php</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/conexion.php</url>
+          <line>1</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
