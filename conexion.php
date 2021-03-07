@@ -1,6 +1,6 @@
 <?php
-$database = "crud";
-$user = "root";
+$database = "";
+$user = "";
 $password = "";
 
 try {
